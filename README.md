@@ -6,4 +6,4 @@ Visual Stuido 2017 brings favorite IDE features to codebases that don't have sol
 * Developers: http://aka.ms/openfolder
 * Extenders: http://aka.ms/extendopenfolder
 
-Thank you for your interest in Visual Studio!
+Thank you for your interest and time!
